@@ -1,7 +1,7 @@
 # Open Sensor Fusion
 
 <p align="center">
-  <img src="assets/opensensorfusion-logo.png" alt="Open Sensor Fusion logo" width="180">
+  <img src="assets/opensensorfusion-logo.png" alt="Open Sensor Fusion logo" width="720">
 </p>
 
 <!-- Organization logo asset: profile/assets/opensensorfusion-logo.png -->
