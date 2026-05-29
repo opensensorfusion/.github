@@ -1,25 +1,32 @@
 # Open Sensor Fusion
 
-Open Sensor Fusion is an open hardware project for sensor aggregation devices
-and Linux IIO host support.
+<!-- Organization logo asset: profile/assets/opensensorfusion-logo.png -->
+<!-- If a vector logo is added later, prefer profile/assets/opensensorfusion-logo.svg. -->
 
-The first hardware target is OSF GREEN, an STM32F405-based prototype board with
-an ICM42688P-class IMU and MMC5983MA magnetometer. The current Linux RFC path
-uses an OSF0 UART frame stream from the board to a host.
+Open Sensor Fusion Foundation is the public-facing project home for Open Sensor
+Fusion, an open hardware and Linux IIO host support project for sensor
+aggregation devices.
+
+Open Sensor Fusion focuses on hardware documentation, firmware interface notes,
+and Linux host-side documentation for OSF0 UART streams. The first concrete
+hardware target is OSF GREEN.
 
 ## Repositories
 
-- `opensensorfusion-hardware` - OSF GREEN hardware design files and
-  documentation
-- `opensensorfusion-firmware` - firmware for Open Sensor Fusion hardware
-  targets
-- `opensensorfusion-linux` - Linux IIO driver and host-side documentation
+- `opensensorfusion-hardware` - OSF GREEN hardware documentation and public
+  release artifacts.
+- `opensensorfusion-firmware` - firmware notes and target-specific interface
+  documentation.
+- `opensensorfusion-linux` - Linux IIO host-side driver work and OSF0 protocol
+  documentation.
 
 ## Scope
 
-- open hardware sensor aggregation devices
-- host interface documentation
-- Linux IIO support
+- Sensor aggregation hardware targets.
+- OSF0 UART stream documentation.
+- Linux IIO host support documentation.
+- Public hardware media, artifact locations, and project notes.
 
-The Linux RFC does not define USB/Web demo output, calibration sysfs, yaw debug
-frames, or fusion/AHRS/Kalman output.
+This profile describes the public project and community identity. It does not
+make claims about legal entity status, product readiness, hardware readiness,
+or kernel acceptance.
