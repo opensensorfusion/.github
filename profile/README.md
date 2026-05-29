@@ -1,5 +1,9 @@
 # Open Sensor Fusion
 
+<p align="center">
+  <img src="assets/opensensorfusion-logo.png" alt="Open Sensor Fusion logo" width="180">
+</p>
+
 <!-- Organization logo asset: profile/assets/opensensorfusion-logo.png -->
 <!-- If a vector logo is added later, prefer profile/assets/opensensorfusion-logo.svg. -->
 
